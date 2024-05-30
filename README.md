@@ -1,0 +1,1 @@
+# Lab-How-to-setup-ECS-cluster-with-EC2-launch-type-by-using-nginx-docker-image
